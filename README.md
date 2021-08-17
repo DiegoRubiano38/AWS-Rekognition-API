@@ -1,1 +1,6 @@
 # AWS-Rekognition-API
+¿Dónde está la imagen del monte Rushmore?
+
+¡Bienvenido a este desafío! Anycorp (una importante emisora de noticias) lo contrató recientemente como científico de datos. Su jefe (no técnico) le dice que la empresa ha construido un gran archivo de imágenes a lo largo de los años. Desafortunadamente, hay muy pocos metadatos asociados con las imágenes, lo que dificulta que los periodistas y presentadores de noticias de Anycorp encuentren las relevantes. Su jefe señala que la mayoría de las imágenes contienen texto que es importante para comprender el contexto de la imagen. Para su primer proyecto, se le pidió que creara una solución inteligente en la nube para extraer automáticamente metadatos de las imágenes.
+
+En este desafío, extraerá varios tipos de información de las imágenes para facilitar la búsqueda de imágenes relevantes. Para lograr este objetivo, aprovechará los servicios de inteligencia artificial de imagen de AWS (Amazon Rekogntion) y procesamiento de lenguaje natural (Amazon Comprehend). ¡Estos servicios administrados de IA hacen que el aprendizaje automático avanzado sea accesible sin la necesidad de entrenar ningún modelo! Hay alrededor de 100 imágenes que se cargan en un depósito de S3.
